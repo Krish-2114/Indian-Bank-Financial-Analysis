@@ -1,0 +1,44 @@
+{
+  "name": "Indian Bank Analytics - Institutional Finance",
+  "dataColors": [
+    "#00A6A6",
+    "#183B56",
+    "#2E8B57",
+    "#C94C4C",
+    "#5B7083",
+    "#7A8C99",
+    "#B8C4CC",
+    "#D5DDE2"
+  ],
+  "background": "#F4F6F8",
+  "foreground": "#17202A",
+  "tableAccent": "#00A6A6",
+  "good": "#2E8B57",
+  "neutral": "#5B7083",
+  "bad": "#C94C4C",
+  "maximum": "#2E8B57",
+  "center": "#F4F6F8",
+  "minimum": "#C94C4C",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 28,
+      "color": "#0B1F33"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 14,
+      "color": "#0B1F33"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#0B1F33"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#17202A"
+    }
+  }
+}
